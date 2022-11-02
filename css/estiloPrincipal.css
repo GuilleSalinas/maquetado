@@ -1,0 +1,49 @@
+@import url("http://font-family: 'League Spartan', sans-serif;");
+
+:root{
+    --color-et-primario: #088178;
+    --color-secundario: #1a1a1a;
+    --color-et-precio: #465b52;
+    --color-et-titulo: #606063;
+    --color-accion: #cce7d0;
+    --color-borde: #e8f6ea;
+    --color-bg-menu: #e5e8f3;
+    --color-bg: #e9ecf6;
+    --navbar-shallow-color: #b4b4b4;
+    --navbar-boton-hover: #1c9d94;
+    --text-color-wite:#ffffff;
+    --text-color-black:#1a1a1a;
+    --linea-footer:#c7c7c7;
+
+}
+
+h1 {
+    font-size: 50px;
+	line-height: 64px;
+	color: var(--color-secundario);
+}
+
+h2 {
+    font-size: 46px;
+	font-weight: 450;
+	line-height: 54px;
+	color: var(--color-secundario);
+}
+
+h4 {
+    font-size: 20px;
+	color: var(--color-secundario);
+}
+
+h6 {
+	font-weight: 700px;
+	font-size: 12px;
+}
+
+p {
+    font-size: 16px;
+	font-weight: 600;
+	color: var(--color-et-precio);
+	margin: 15px 0 20px 0;
+}
+
