@@ -7,7 +7,7 @@
   background-clip: border-box;
 }
 
-/* Se resetea el body */
+/* Se resetea el body con clac*/
 body {
   width: calc(100vw - (100vw - 100%));
 }
